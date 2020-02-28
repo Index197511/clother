@@ -14,7 +14,7 @@ func main() {
 	app := cli.NewApp()
 	app.Name = "clother"
 	app.Usage = "Create template directory for Competitive Programming."
-	app.Version = "1.0.0"
+	app.Version = "1.1.0"
 
 	app.Action = clother
 	if err := app.Run(os.Args); err != nil {
