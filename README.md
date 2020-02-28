@@ -10,8 +10,8 @@ If you want to insert template into file, please create following file.
 ```
 $HOME/.clother/template.**
 ```
-```
 e.g) create Python template
+```
     $HOME/.clother/template.py
 ```
 ## Installation
